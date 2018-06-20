@@ -1,3 +1,12 @@
+/*
+HUOM EI TOIMI!
+
+Kokeile yritys2.js tiedostoa tämän sijasta.
+
+
+ */
+
+
 var req = new XMLHttpRequest();
 
 var lista = document.getElementById("lista");
